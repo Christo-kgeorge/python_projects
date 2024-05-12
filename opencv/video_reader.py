@@ -1,6 +1,6 @@
 import cv2
 
-# webcam index =0,1,-1,2,-1
+# webcam index =0,1,-1,2,-1,
 video =cv2.VideoCapture(0)
 
 while True:
