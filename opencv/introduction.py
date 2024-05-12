@@ -31,5 +31,5 @@ img=cv2.putText(
             thickness=1)
 
 cv2.imshow('rgb image',img)
-cv2.waitKey(1000)
+cv2.waitKey(10000)
 cv2.destroyAllWindows()
