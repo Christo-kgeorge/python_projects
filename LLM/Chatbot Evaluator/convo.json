@@ -1,0 +1,30 @@
+{
+     "id": "15_00070",
+    "conversation": [
+      {
+        "role": "USER",
+        "text": "how is my ip getting stored"
+      },
+      {
+        "role": "SYSTEM",
+        "text": "no, as a private airline company, our company doesn't store ip address"
+      },
+      {
+        "role": "USER",
+        "text": "ok so whats about license"
+      },
+      {
+        "role": "SYSTEM",
+        "text": "dont know"
+      },
+      {
+       "role": "USER",
+       "text": "ok so whats about ownership"
+      },
+      {
+        "role": "SYSTEM",
+        "text": "nothing about ownership"
+      }
+    ]
+}
+      
