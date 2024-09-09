@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+pypdf
+pinecone-client
+langchain_google_genai
+pymupdf
